@@ -1,0 +1,106 @@
+.headline {
+    font-size: 10px;
+    color: #3d4f9f;
+  }
+  
+  .motivation {
+    font-size: 48px;
+    color: #3d4f9f;
+    margin-top: 16px;
+    margin-bottom: 28px;
+  }
+  
+  .text {
+    font-size: 15px;
+    line-height: 191%;
+    color: #8d96bd;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .no-bold {
+    font-weight: normal;
+  }
+  
+  .support-by {
+    background-color: white;
+    margin-top: 380px;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: space-around;
+    height: 145px;
+  }
+  
+  .support-by a {
+    align-self: center;
+  }
+  
+  .plane-and-manage {
+    display: flex;
+  }
+  
+  .plane-and-manage-text {
+    margin-left: 271px;
+    margin-top: 208px;
+    margin-bottom: 216px;
+  }
+  
+  .plane-and-manage-img {
+    margin-top: 170px;
+    margin-left: 55px;
+  }
+  
+  .plane-and-manage-img .mobile-left {
+    background-color: white;
+    width: 107px;
+    padding: 11px 0.01px;
+    border-radius: 15px;
+    box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+    position: absolute;
+    transform: translate(53%, -110%);
+    z-index: 100;
+  }
+  
+  .plane-and-manage-img .mobile-right {
+    background-color: white;
+    width: 145px;
+    padding: 9px 3.27px 15px 1px;
+    border-radius: 15px;
+    box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+    position: absolute;
+    transform: translate(330%, -63%);
+    z-index: 100;
+  }
+  
+  .plane-and-manage-img .PC {
+    background-color: white;
+    margin-left: 135px;
+    width: 510px;
+    padding: 12.38px 15.69px 7.43px 15.69px;
+    border-radius: 15px;
+    box-shadow: 0px 20px 40px rgba(53, 60, 115, 0.15);
+  }
+  
+  .plane-and-manage .buttom {
+    padding: 13px 37px 13px 25px;
+  }
+  
+  .plane-and-manage .buttom a {
+    text-decoration: none;
+    padding: 13px 37px 13px 25px;
+  }
+  
+  .plane-and-manage .buttom .buttom-see {
+    color: #adb4d2;
+    background-color: #e4e6f0;
+    border: 1px solid #8d96bd;
+  }
+  
+  .plane-and-manage .buttom .buttom-view {
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+  }
