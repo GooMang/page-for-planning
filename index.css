@@ -16,3 +16,15 @@ body {
   padding: 0;
   margin-right: 51px;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.no-bold {
+  font-weight: normal;
+}
+
+.solid {
+  border-bottom: 1px solid #dae4fe;
+}

@@ -1,0 +1,12 @@
+.support-by {
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: space-around;
+    height: 145px;
+  }
+  
+  .support-by a {
+    align-self: center;
+  }

@@ -1,0 +1,43 @@
+/* .plan-youre-life-video__headline {
+  position: relative;
+  text-align: center;
+  right: 50%;
+  transform: translate(50%, -50%);
+  top: 172px;
+}
+
+.headline_first-heading {
+  font-size: 10px;
+  color: #3d4f9f;
+}
+
+.headline_second-heading {
+  font-size: 48px;
+  color: #3d4f9f;
+}
+
+.headline_main-text {
+  font-size: 15px;
+  color: #8d96bd;
+}
+
+.plan-youre-life-video__background-img_under {
+  position: absolute;
+  z-index: 100;
+  right: 50%;
+  transform: translate(50%, -50%);
+}
+
+.plan-youre-life-video__background-img_over {
+  position: absolute;
+  z-index: 99;
+  right: 53%;
+  transform: translate(50%, -50%);
+}
+
+.plan-youre-life-video__background-img_stats {
+  position: absolute;
+  z-index: 100;
+  right: 54%;
+  transform: translate(-48.5%, 153%);
+} */

@@ -1,0 +1,61 @@
+.statistics__percent {
+  background: linear-gradient(229.32deg, #6888ff 12.77%, #5e80ff 73.11%);
+  color: white;
+  padding: 70px 94px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.statistics__numbers {
+  background: linear-gradient(101.48deg, #e9efff 41.56%, #e0e9ff 81.53%);
+  color: #5e80ff;
+  padding: 70px 94px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.statistics__percent_img {
+  width: 65px;
+  height: 65px;
+  margin-bottom: 24px;
+  justify-content: flex-end;
+}
+
+.statistics__numbers_img{
+  width: 71px;
+  height: 62px;
+  margin-bottom: 24px;
+}
+
+.statistics__percent .h1 {
+  font-size: 48px;
+  text-align: end;
+  height: 84px;
+}
+
+.statistics__percent .main-text {
+  font-size: 18px;
+  text-align: end;
+}
+
+.statistics__numbers .h1 {
+  font-size: 48px;
+  text-align: start;
+  height: 84px;
+}
+
+.statistics__numbers .main-text {
+  font-size: 18px;
+  text-align: start;
+}
+
+.statistics {
+  display: flex;
+  justify-content: center;
+}
+
+.statistics h1 {
+  padding: 24px 0px 27px 0px;
+}
