@@ -1,0 +1,91 @@
+.our-resources {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f5f8ff;
+  padding-top: 104px;
+}
+
+.our-resources .h1 {
+  font-size: 10px;
+  margin-bottom: 20px;
+  color: #3D4F9F;
+}
+
+.our-resources .h2 {
+  font-size: 24px;
+  margin-bottom: 92px;
+  color: #3D4F9F;
+}
+
+.our-resources__how-to-start-planning {
+  display: flex;
+  background-color: #fff;
+  width: 958px;
+  height: 394px;
+  margin-bottom: 213px;
+}
+
+.our-resources__album_1 {
+  display: flex;
+  padding: 63px 67px 64px 35px;
+}
+
+.how-to-start-planning_img_1 {
+  width: 267px;
+  height: 267px;
+  margin-right: 13px;
+}
+
+.how-to-start-planning_img_2 {
+  width: 126px;
+  height: 126px;
+  margin-bottom: 14px;
+}
+
+.how-to-start-planning_img_3 {
+  width: 126px;
+  height: 126px;
+  align-self: flex-end;
+}
+
+.our-resources__main-text_1 {
+  display: flex;
+  padding: 63px 41px 64px 0px;
+  flex-direction: column;
+  text-align: start;
+  width: 408px;
+}
+
+.our-resources__main-text_1 .h1 {
+  font: 36px "Quicksand", sans-serif;
+  color: #3d4f9f;
+  margin-bottom: 32px;
+  line-height: 45px;
+}
+
+.our-resources__main-text_1 .main-text {
+  font: 14px "Roboto", sans-serif;
+  color: #8d96bd;
+  padding-bottom: 31px;
+  line-height: 27px;
+}
+
+.our-resources__main-text_1 .links .read-now,
+.our-resources__main-text_1 .links .add-bookmarks {
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.our-resources__main-text_1 .links .read-now {
+  background-color: #d2e1ff;
+  color: #3a79ff;
+  padding: 13px 15px 13px 18px;
+  margin-right: 8px;
+}
+
+.our-resources__main-text_1 .links .add-bookmarks {
+  background-color: white;
+  color: #a6b6da;
+  padding: 13px 15px;
+}
