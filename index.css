@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-family: "Quicksand", sans-serif;
   font-size: 12px;
-  width: 1440px;
+  max-width: 1440px;
 }
 
 #circle {
@@ -28,3 +28,4 @@ body {
 .solid {
   border-bottom: 1px solid #dae4fe;
 }
+

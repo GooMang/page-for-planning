@@ -1,44 +1,42 @@
-.desktop-and-mobile-app__headline .headline_h1 {
+.desktop-and-mobile-app__preheadline {
   font-size: 10px;
   color: #3d4f9f;
 }
 
-.desktop-and-mobile-app__headline .headline_h2 {
+.desktop-and-mobile-app__headline {
   font-size: 48px;
   color: #3d4f9f;
   margin-top: 16px;
   margin-bottom: 28px;
 }
 
-.desktop-and-mobile-app__headline .headline_main-text {
+.desktop-and-mobile-app__discription {
   font-size: 15px;
   line-height: 191%;
   color: #8d96bd;
+  padding-bottom: 47px;
 }
 
 .desktop-and-mobile-app {
   display: flex;
+  background-color: #f5f8ff;
 }
 
-.desktop-and-mobile-app__headline {
+.desktop-and-mobile-app__text {
   margin-left: 271px;
   margin-top: 208px;
   margin-bottom: 216px;
 }
 
-.desktop-and-mobile-app__headline .headline_main-text{
-  padding-bottom: 47px;
-}
-
-.desktop-and-mobile-app__headline .headline_buttom .headline_buttom_see {
+.desktop-and-mobile-app__features-button {
   color: #adb4d2;
-  background-color: #e4e6f0;
+  background-color: #f5f8ff;
   border: 1px solid #8d96bd;
   text-decoration: none;
   padding: 13px 37px 13px 25px;
 }
 
-.desktop-and-mobile-app__headline .headline_buttom .headline_buttom_view {
+.desktop-and-mobile-app__video-button {
   color: white;
   background-color: blue;
   border: 1px solid blue;
@@ -46,12 +44,12 @@
   padding: 13px 37px 13px 25px;
 }
 
-.desktop-and-mobile-app__img {
+.desktop-and-mobile-app__images {
   margin-top: 170px;
   margin-left: 55px;
 }
 
-.desktop-and-mobile-app__img .desktop-and-mobile-app__img_Mobile_small {
+.desktop-and-mobile-app__mobile-small {
   background-color: white;
   width: 107px;
   padding: 11px 0.01px;
@@ -62,7 +60,7 @@
   z-index: 100;
 }
 
-.desktop-and-mobile-app__img .desktop-and-mobile-app__img_Mobile_big {
+.desktop-and-mobile-app__mobile-big {
   background-color: white;
   width: 145px;
   padding: 9px 3.27px 15px 1px;
@@ -73,7 +71,7 @@
   z-index: 100;
 }
 
-.desktop-and-mobile-app__img .desktop-and-mobile-app__img_PC {
+.desktop-and-mobile-app__pc {
   background-color: white;
   margin-left: 135px;
   width: 510px;

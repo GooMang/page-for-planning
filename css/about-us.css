@@ -6,18 +6,30 @@
   color: #3d4f9f;
 }
 
-.about-us_img {
+.about-us__background {
   position: absolute;
   transform: translate(-50%, -10%);
 }
 
-.about-us__headline .h1 {
+.about-us__preheadline {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
   font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.1em;
+  color: #3d4f9f;
   margin-bottom: 20px;
 }
 
-.about-us__headline .h2 {
+.about-us__headline {
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: 600;
   font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  color: #3d4f9f;
 }
 
 .about-us__main-content {
@@ -27,33 +39,35 @@
   color: #4074f8;
 }
 
-.about-us__main-content .text {
-  font-size: 11px;
-}
-
-.about-us__main-content .overview,
-.about-us__main-content .files,
-.about-us__main-content .meeting-chats,
-.about-us__main-content .save-events {
+.about-us__column {
   width: 140px;
   height: 254px;
 }
 
-.about-us__main-content img {
+.item__abous-us__img {
   margin-bottom: 33px;
 }
 
-.about-us__main-content p:not(:last-of-type) {
+.item__abous-us__title {
   margin-bottom: 25px;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
   font-size: 14px;
+  line-height: 25px;
+  text-align: center;
+  color: #4074f8;
 }
 
-.about-us__main-content p:last-of-type{
+.item__abous-us__text {
+  font-style: normal;
+  font-weight: 500;
   font-size: 11px;
+  line-height: 19px;
   color: #adb3cb;
 }
 
-.about-us__main-content .solid{
+.item__abous-us__solid {
   width: 40px;
   height: 120px;
 }
@@ -65,28 +79,28 @@
   font-size: 13px;
 }
 
-.about-us__buttom .buttom_read-more {
+.about-us__buttom__read-more {
   padding: 13px 15px;
   background-color: #ffd7d7;
   color: #d43f3f;
   font-size: 13px;
 }
 
-.about-us__buttom .buttom_get-started {
+.about-us__buttom__get-started {
   padding: 13px 15px;
   background-color: #d2e1ff;
   color: #3a79ff;
   font-size: 13px;
 }
 
-.about-us__buttom .or {
+.about-us__or {
   text-align: center;
   align-self: center;
   font-size: 11px;
   color: #adb3cb;
 }
 
-.about-us__buttom .solid {
+.about-us__buttom__solid {
   height: 20px;
   width: 20px;
 }

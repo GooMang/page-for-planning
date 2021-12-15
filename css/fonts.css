@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/Quicksand/Quicksand-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/Roboto/Roboto-Regular.ttf) format("truetype");
+}

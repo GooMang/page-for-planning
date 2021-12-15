@@ -6,13 +6,13 @@
   padding-top: 104px;
 }
 
-.our-resources .h1 {
+.our-resources__preheadline {
   font-size: 10px;
   margin-bottom: 20px;
   color: #3D4F9F;
 }
 
-.our-resources .h2 {
+.our-resources__headline {
   font-size: 24px;
   margin-bottom: 92px;
   color: #3D4F9F;
@@ -26,7 +26,7 @@
   margin-bottom: 213px;
 }
 
-.our-resources__album_1 {
+.our-resources__how-to-start-planning__album_first {
   display: flex;
   padding: 63px 67px 64px 35px;
 }
@@ -49,7 +49,7 @@
   align-self: flex-end;
 }
 
-.our-resources__main-text_1 {
+.our-resources__how-to-start-planning__text-item_first {
   display: flex;
   padding: 63px 41px 64px 0px;
   flex-direction: column;
@@ -57,34 +57,34 @@
   width: 408px;
 }
 
-.our-resources__main-text_1 .h1 {
+.our-resources__how-to-start-planning__headline_first {
   font: 36px "Quicksand", sans-serif;
   color: #3d4f9f;
   margin-bottom: 32px;
   line-height: 45px;
 }
 
-.our-resources__main-text_1 .main-text {
+.our-resources__how-to-start-planning__text_first {
   font: 14px "Roboto", sans-serif;
   color: #8d96bd;
   padding-bottom: 31px;
   line-height: 27px;
 }
 
-.our-resources__main-text_1 .links .read-now,
-.our-resources__main-text_1 .links .add-bookmarks {
+.our-resources__how-to-start-planning__read-now_first,
+.our-resources__how-to-start-planning__add-bookmarks_first {
   text-decoration: none;
   font-size: 13px;
 }
 
-.our-resources__main-text_1 .links .read-now {
+.our-resources__how-to-start-planning__read-now_first {
   background-color: #d2e1ff;
   color: #3a79ff;
   padding: 13px 15px 13px 18px;
   margin-right: 8px;
 }
 
-.our-resources__main-text_1 .links .add-bookmarks {
+.our-resources__how-to-start-planning__add-bookmarks_first {
   background-color: white;
   color: #a6b6da;
   padding: 13px 15px;

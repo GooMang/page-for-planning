@@ -1,0 +1,41 @@
+.customer-help {
+  background-color: white;
+  padding-top: 176px;
+  padding-bottom: 174px;
+  width: 100%;
+}
+
+.customer-help__preheadline {
+  font-family: Roboto;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  color: #3d4f9f;
+  padding-bottom: 20px;
+}
+
+.customer-help__headline {
+  font-family: Quicksand;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: center;
+  color: #3d4f9f;
+  padding-bottom: 68px;
+}
+
+.customer-help__list {
+  padding-left: 348px;
+}
+
+.customer-help__list li {
+  width: 743px;
+  height: 60px;
+  padding-top: 37px;
+  padding-left: 24px;
+  border-bottom: 1px solid #8e96b7;
+}

@@ -1,0 +1,75 @@
+.sign-up {
+  display: flex;
+  height: 332px;
+  width: 1440px;
+  align-items: center;
+  background-color: #FCFDFF;
+  border-bottom: 2px solid #eeeeee;
+}
+
+.sign-up__item__text {
+  width: 330px;
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 276px;
+}
+
+.sign-up__headline {
+  font-family: Quicksand;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-bottom: 18px;
+  color: #3d4f9f;
+}
+
+.sign-up__text {
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #3d4f9f;
+}
+
+.sign-up__item__send {
+  display: flex;
+  padding-left: 80px;
+}
+
+.sign-up__email-address {
+  padding: 21px 168px 21px 23px;
+  border: 0px;
+  background-color: #efeff7;
+  font-family: Quicksand;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7a85ad;
+  border-radius: 8px;
+}
+
+.sign-up__send-email {
+  margin-left: 14px;
+  border: 0px;
+  padding: 22px 62px 20px 62px;
+  background-color: #4d6ce1;
+  font-family: Quicksand;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+  border-radius: 8px;
+}

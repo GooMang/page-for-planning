@@ -7,25 +7,25 @@
   justify-content: flex-end;
 }
 
-.testimonials__text{
+.testimonials__text-item{
     padding-right: 100px;
 }
 
-.testimonials__text .h1 {
+.testimonials__preheadline {
   color: #3d4f9f;
   font-size: 10px;
   margin-bottom: 31px;
   margin-top: 90px;
 }
 
-.testimonials__text .h2 {
+.testimonials__headline {
   color: #3d4f9f;
-  font-size: 36px;
+  font-style: normal;
   line-height: 45px;
   margin-bottom: 14px;
 }
 
-.testimonials__text .main-text {
+.testimonials__text{
   color: #a4abc8;
   font-size: 12px;
   line-height: 23px;
