@@ -1,12 +1,14 @@
 .support-by {
-    background-color: white;
-    padding-left: 10%;
-    padding-right: 10%;
-    display: flex;
-    justify-content: space-around;
-    height: 145px;
-  }
-  
-  .support-by__img {
-    align-self: center;
-  }
+  background-color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  justify-content: space-around;
+  /* align-items вместо align-self */
+  /* paddings? */
+  height: 145px;
+}
+
+.support-by__img {
+  align-self: center;
+}

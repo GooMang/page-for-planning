@@ -29,6 +29,7 @@
 }
 
 .desktop-and-mobile-app__features-button {
+  /* display: block; */
   color: #adb4d2;
   background-color: #f5f8ff;
   border: 1px solid #8d96bd;
@@ -37,6 +38,7 @@
 }
 
 .desktop-and-mobile-app__video-button {
+  /* display: block; */
   color: white;
   background-color: blue;
   border: 1px solid blue;

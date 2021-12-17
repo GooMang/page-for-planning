@@ -22,12 +22,14 @@
   width: 65px;
   height: 65px;
   margin-bottom: 24px;
+  /* wtf */
   justify-content: flex-end;
 }
 
 .statistics__numbers__img {
   width: 71px;
   height: 62px;
+  /* кажется лишним */
   text-align: end;
   margin-bottom: 24px;
 }
@@ -35,6 +37,7 @@
 .statistics__percent__title {
   font-size: 48px;
   text-align: end;
+  /* margin вместо height */
   height: 84px;
 }
 

@@ -1,34 +1,38 @@
 .heading {
-    display: flex;
-    justify-content: space-between;
-    height: 43px;
-    background-color: white;
-    padding: 19px 117px;
-  }
-  
-  .heading__navigation,
-  .heading__links {
-    display: flex;
-    color: #697ca6;
-    align-items: center;
-  }
-  
-  .heading__navigation :first-of-type {
-    margin-right: 72px;
-  }
-  
-  .navigation__anchor {
-    margin-right: 42px;
-    text-decoration: none;
-  }
-  
-  .heading__links__logo {
-    margin-right: 38px;
-  }
-  
-  .heading__links__get-stared {
-    padding: 13px 15px 13px 16px;
-    color: #3a79ff;
-    background-color: #d2e1ff;
-    text-decoration: none;
-  }
+  display: flex;
+  justify-content: space-between;
+  /* Высота лишняя */
+  height: 43px;
+  /* background-color должен быть у всего документа */
+  background-color: white;
+  padding: 19px 117px;
+}
+
+/* color на уровень выше(?), display и align-items продублировать */
+/* heading__navigation, heading__links - это блоки а не элементы */
+.heading__navigation,
+.heading__links {
+  display: flex;
+  color: #697ca6;
+  align-items: center;
+}
+
+.heading__navigation :first-of-type {
+  margin-right: 72px;
+}
+
+.navigation__anchor {
+  margin-right: 42px;
+  text-decoration: none;
+}
+
+.heading__links__logo {
+  margin-right: 38px;
+}
+
+.heading__links__get-stared {
+  padding: 13px 15px 13px 16px;
+  color: #3a79ff;
+  background-color: #d2e1ff;
+  text-decoration: none;
+}
